@@ -1,4 +1,12 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">Not A Virus_alpha</string>
     <string name="PlayButtonText">Play</string>
+    <string name="find_the_difference">Find the difference!</string>
+    <string name="play">Play</string>
+    <string name="_1">1</string>
+    <string name="select_level">Select Level</string>
+    <string name="click_on_the_difference">Click On The Difference</string>
+    <string name="level">Level №</string>
+    <string name="left_image">Left Image</string>
+    <string name="right_image">Right Image</string>
 </resources>
